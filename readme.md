@@ -6,7 +6,7 @@
 
 前端界的好文精读，每周更新！
 
-最新精读：<a href="./前沿技术/211.%E7%B2%BE%E8%AF%BB%E3%80%8AMicrosoft%20Power%20Fx%E3%80%8B.md">211.精读《Microsoft Power Fx》</a>
+最新精读：<a href="./前沿技术/240.%E7%B2%BE%E8%AF%BB%E3%80%8AReact%20useEvent%20RFC%E3%80%8B.md">240.精读《React useEvent RFC》</a>
 
 素材来源：[周刊参考池](https://github.com/ascoders/weekly/issues/2)
 
@@ -169,6 +169,27 @@
 - <a href="./前沿技术/209.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%8D%95%E8%8E%B7%E6%89%80%E6%9C%89%E5%BC%82%E6%AD%A5%20error%E3%80%8B.md">209.精读《捕获所有异步 error》</a>
 - <a href="./前沿技术/210.%E7%B2%BE%E8%AF%BB%E3%80%8Aclass%20static%20block%E3%80%8B.md">210.精读《class static block》</a>
 - <a href="./前沿技术/211.%E7%B2%BE%E8%AF%BB%E3%80%8AMicrosoft%20Power%20Fx%E3%80%8B.md">211.精读《Microsoft Power Fx》</a>
+- <a href="./前沿技术/212.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%8F%AF%E7%BB%B4%E6%8A%A4%E6%80%A7%E6%80%9D%E8%80%83%E3%80%8B.md">212.精读《可维护性思考》</a>
+- <a href="./前沿技术/213.%E7%B2%BE%E8%AF%BB%E3%80%8APrisma%20%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%8B.md">213.精读《Prisma 的使用》</a>
+- <a href="./前沿技术/214.%E7%B2%BE%E8%AF%BB%E3%80%8Aweb%20streams%E3%80%8B.md">214.精读《web streams》</a>
+- <a href="./前沿技术/215.%E7%B2%BE%E8%AF%BB%E3%80%8A%E4%BB%80%E4%B9%88%E6%98%AF%20LOD%20%E8%A1%A8%E8%BE%BE%E5%BC%8F%E3%80%8B.md">215.精读《什么是 LOD 表达式》</a>
+- <a href="./前沿技术/216.%E7%B2%BE%E8%AF%BB%E3%80%8A15%20%E5%A4%A7%20LOD%20%E8%A1%A8%E8%BE%BE%E5%BC%8F%20-%20%E4%B8%8A%E3%80%8B.md">216.精读《15 大 LOD 表达式 - 上》</a>
+- <a href="./前沿技术/217.%E7%B2%BE%E8%AF%BB%E3%80%8A15%20%E5%A4%A7%20LOD%20%E8%A1%A8%E8%BE%BE%E5%BC%8F%20-%20%E4%B8%8B%E3%80%8B.md">217.精读《15 大 LOD 表达式 - 下》</a>
+- <a href="./前沿技术/218.%E7%B2%BE%E8%AF%BB%E3%80%8ARust%20%E6%98%AF%20JS%20%E5%9F%BA%E5%BB%BA%E7%9A%84%E6%9C%AA%E6%9D%A5%E3%80%8B.md">218.精读《Rust 是 JS 基建的未来》</a>
+- <a href="./前沿技术/219.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E7%8E%B0%E4%BB%A3%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%80%E3%80%8B.md">219.精读《深入了解现代浏览器一》</a>
+- <a href="./前沿技术/220.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E7%8E%B0%E4%BB%A3%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BA%8C%E3%80%8B.md">220.精读《深入了解现代浏览器二》</a>
+- <a href="./前沿技术/221.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E7%8E%B0%E4%BB%A3%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%89%E3%80%8B.md">221.精读《深入了解现代浏览器三》</a>
+- <a href="./前沿技术/222.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3%E7%8E%B0%E4%BB%A3%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9B%9B%E3%80%8B.md">222.精读《深入了解现代浏览器四》</a>
+- <a href="./前沿技术/223.%E7%B2%BE%E8%AF%BB%E3%80%8ARecords%20%26%20Tuples%20%E6%8F%90%E6%A1%88%E3%80%8B.md">223.精读《Records & Tuples 提案》</a>
+- <a href="./前沿技术/224.%E7%B2%BE%E8%AF%BB%E3%80%8ARecords%20%26%20Tuples%20for%20React%E3%80%8B.md">224.精读《Records & Tuples for React》</a>
+- <a href="./前沿技术/225.%E7%B2%BE%E8%AF%BB%E3%80%8AExcel%20JS%20API%E3%80%8B.md">225.精读《Excel JS API》</a>
+- <a href="./前沿技术/226.%E7%B2%BE%E8%AF%BB%E3%80%8A2021%20%E5%89%8D%E7%AB%AF%E6%96%B0%E7%A7%80%E5%9B%9E%E9%A1%BE%E3%80%8B.md">226.精读《2021 前端新秀回顾》</a>
+- <a href="./前沿技术/228.%E7%B2%BE%E8%AF%BB%E3%80%8Apipe%20operator%20for%20JavaScript%E3%80%8B.md">228.精读《pipe operator for JavaScript》</a>
+- <a href="./前沿技术/230.%E7%B2%BE%E8%AF%BB%E3%80%8A%E5%AF%B9%20Markdown%20%E7%9A%84%E6%80%9D%E8%80%83%E3%80%8B.md">230.精读《对 Markdown 的思考》</a>
+- <a href="./前沿技术/237.%E7%B2%BE%E8%AF%BB%E3%80%8ATypescript%204.5-4.6%20%E6%96%B0%E7%89%B9%E6%80%A7%E3%80%8B.md">237.精读《Typescript 4.5-4.6 新特性》</a>
+- <a href="./前沿技术/238.%E7%B2%BE%E8%AF%BB%E3%80%8A%E4%B8%8D%E5%86%8D%E9%9C%80%E8%A6%81%20JS%20%E5%81%9A%E7%9A%84%205%20%E4%BB%B6%E4%BA%8B%E3%80%8B.md">238.精读《不再需要 JS 做的 5 件事》</a>
+- <a href="./前沿技术/239.%E7%B2%BE%E8%AF%BB%E3%80%8AJS%20%E6%95%B0%E7%BB%84%E7%9A%84%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0%E3%80%8B.md">239.精读《JS 数组的内部实现》</a>
+- <a href="./前沿技术/240.%E7%B2%BE%E8%AF%BB%E3%80%8AReact%20useEvent%20RFC%E3%80%8B.md">240.精读《React useEvent RFC》</a>
 
 ### 设计模式
 
@@ -223,6 +244,8 @@
 - <a href="./源码解读/151.%20%E7%B2%BE%E8%AF%BB%E3%80%8A%40umijs%20use-request%E3%80%8B%E6%BA%90%E7%A0%81.md">151. 精读《@umijs use-request》源码</a>
 - <a href="./源码解读/155.%20%E7%B2%BE%E8%AF%BB%E3%80%8Ause-what-changed%20%E6%BA%90%E7%A0%81%E3%80%8B.md">155. 精读《use-what-changed 源码》</a>
 - <a href="./源码解读/156.%20%E7%B2%BE%E8%AF%BB%E3%80%8Areact-intersection-observer%20%E6%BA%90%E7%A0%81%E3%80%8B.md">156. 精读《react-intersection-observer 源码》</a>
+- <a href="./源码解读/227.%20%E7%B2%BE%E8%AF%BB%E3%80%8Azustand%20%E6%BA%90%E7%A0%81%E3%80%8B.md">227. 精读《zustand 源码》</a>
+- <a href="./源码解读/229.%E7%B2%BE%E8%AF%BB%E3%80%8Avue-lit%20%E6%BA%90%E7%A0%81%E3%80%8B.md">229.精读《vue-lit 源码》</a>
 
 ### 商业思考
 
@@ -245,6 +268,15 @@
 - <a href="./算法/200.%E7%B2%BE%E8%AF%BB%E3%80%8A%E7%AE%97%E6%B3%95%20-%20%E5%9B%9E%E6%BA%AF%E3%80%8B.md">200.精读《算法 - 回溯》</a>
 - <a href="./算法/201.%E7%B2%BE%E8%AF%BB%E3%80%8A%E7%AE%97%E6%B3%95%20-%20%E4%BA%8C%E5%8F%89%E6%A0%91%E3%80%8B.md">201.精读《算法 - 二叉树》</a>
 - <a href="./算法/203.%E7%B2%BE%E8%AF%BB%E3%80%8A%E7%AE%97%E6%B3%95%20-%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E3%80%8B.md">203.精读《算法 - 二叉搜索树》</a>
+
+### SQL
+
+- <a href="./SQL/231.SQL%20%E5%85%A5%E9%97%A8.md">231.SQL 入门</a>
+- <a href="./SQL/232.SQL%20%E8%81%9A%E5%90%88%E6%9F%A5%E8%AF%A2.md">232.SQL 聚合查询</a>
+- <a href="./SQL/233.SQL%20%E5%A4%8D%E6%9D%82%E6%9F%A5%E8%AF%A2.md">233.SQL 复杂查询</a>
+- <a href="./SQL/234.SQL%20CASE%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.md">234.SQL CASE 表达式</a>
+- <a href="./SQL/235.SQL%20%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0.md">235.SQL 窗口函数</a>
+- <a href="./SQL/236.SQL%20grouping.md">236.SQL grouping</a>
 
 ## 关注前端精读微信公众号
 
